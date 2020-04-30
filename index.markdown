@@ -19,29 +19,29 @@ The CETEGO manifesto is summarized in the following items.
 
 ## Members
 
-[Gabriele Costa](http://www.imtlucca.it/gabriele.costa) (Head), Scuola di Alti Studi IMT di Lucca
+[Cataldo	Basile](http://www.dauin.polito.it/it/personale/scheda/(nominativo)/cataldo.basile), Politecnico di Torino
+
+[Costantina Caruso](http://m.ict.uniba.it/rubrica/costantina.caruso), Università di Bari
+
+[Emilio Coppa](https://ecoppa.github.io/), Università "La Sapienza" di Roma
+
+[Gabriele Costa](http://www.imtlucca.it/gabriele.costa) (WG Head), Scuola di Alti Studi IMT di Lucca
 
 [Letterio Galletta](https://www.imtlucca.it/it/letterio.galletta), Scuola di Alti Studi IMT di Lucca
 
 [Giovanni Lagorio](https://www.dibris.unige.it/lagorio-giovanni), Università di Genova
 
+[Eleonora Losiouk](https://www.math.unipd.it/~elosiouk/),	Università di Padova
+
+[Davide Maiorca](https://www.unica.it/unica/it/ateneo_s07_ss01.page?contentId=SHD187705), Università di Cagliari
+
+[Francesco	Palmarini](https://www.unive.it/data/persone/11900656), Università "Ca' Foscari" di Venezia
+
 [Marina Ribaudo](https://www.dibris.unige.it/ribaudo-marina), Università di Genova
 
 [Luigi Romano](https://www.uniparthenope.it/ugov/person/2017), Università di Napoli Pathenope
 
-[Francesco	Palmarini](https://www.unive.it/data/persone/11900656), Università "Ca' Foscari" di Venezia
-
-[Emilio Coppa](https://ecoppa.github.io/), Università "La Sapienza" di Roma
-
-[Eleonora Losiouk](https://www.math.unipd.it/~elosiouk/),	Università di Padova
-
 [Mario	Polino](https://jinblack.it/), Politecnico di Milano
-
-[Cataldo	Basile](http://www.dauin.polito.it/it/personale/scheda/(nominativo)/cataldo.basile), Politecnico di Torino
-
-[Costantina Caruso](http://m.ict.uniba.it/rubrica/costantina.caruso), Università di Bari
-
-[Davide Maiorca](https://www.unica.it/unica/it/ateneo_s07_ss01.page?contentId=SHD187705), Università di Cagliari
 
 ## Affiliated events
 
