@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # Cybersecurity Edutainment, Training, Ethical Hacking and Gaming Group
