@@ -21,6 +21,7 @@
 title: CETEGO
 email: 
 description: 
+logo: logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.cetego.it" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
