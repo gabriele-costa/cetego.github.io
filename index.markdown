@@ -37,11 +37,12 @@ The CETEGO manifesto is summarized in the following items.
 
 [Francesco	Palmarini](https://www.unive.it/data/persone/11900656), Università "Ca' Foscari" di Venezia
 
+[Mario	Polino](https://jinblack.it/), Politecnico di Milano
+
 [Marina Ribaudo](https://www.dibris.unige.it/ribaudo-marina), Università di Genova
 
 [Luigi Romano](https://www.uniparthenope.it/ugov/person/2017), Università di Napoli Pathenope
 
-[Mario	Polino](https://jinblack.it/), Politecnico di Milano
 
 ## Affiliated events
 
