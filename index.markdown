@@ -25,7 +25,11 @@ The CETEGO manifesto is summarized in the following items.
 
 [Emilio Coppa](https://ecoppa.github.io/), Università "La Sapienza" di Roma
 
+[Luigi Coppolino](https://www.uniparthenope.it/ugov/person/480), Università di Napoli Pathenope
+
 [Gabriele Costa](http://www.imtlucca.it/gabriele.costa) (WG Head), Scuola di Alti Studi IMT di Lucca
+
+[Luigi D'Antonio](https://www.uniparthenope.it/ugov/person/1916), Università di Napoli Pathenope
 
 [Letterio Galletta](https://www.imtlucca.it/it/letterio.galletta), Scuola di Alti Studi IMT di Lucca
 
