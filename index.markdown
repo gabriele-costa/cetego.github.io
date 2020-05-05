@@ -29,7 +29,7 @@ The CETEGO manifesto is summarized in the following items.
 
 [Gabriele Costa](http://www.imtlucca.it/gabriele.costa) (WG Head), Scuola di Alti Studi IMT di Lucca
 
-[Luigi D'Antonio](https://www.uniparthenope.it/ugov/person/1916), Università di Napoli Pathenope
+[Salvatore D'Antonio](https://www.uniparthenope.it/ugov/person/1916), Università di Napoli Pathenope
 
 [Letterio Galletta](https://www.imtlucca.it/it/letterio.galletta), Scuola di Alti Studi IMT di Lucca
 
