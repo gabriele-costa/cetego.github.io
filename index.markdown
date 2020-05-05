@@ -8,7 +8,7 @@ The *Cybersecurity Edutainment, Training, Ethical Hacking and Gaming Group*, CET
 
 ## Manifesto
 
-CETEGO aim to gather, coordinate and foster the cybersecurity training and education initiatives as well as the ethical hacking.
+CETEGO aims to gather, coordinate and foster the cybersecurity training and education initiatives as well as the ethical hacking.
 One of the purposes of CETEGO is to identify and define novel methodologies, mainly based on "gamification", to make the education and training activities more effective and inclusive.
 The CETEGO manifesto is summarized in the following items.
 - Periodically collect and report the members' activities on cybersecurity training and education.
