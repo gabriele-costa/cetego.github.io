@@ -47,6 +47,7 @@ The CETEGO manifesto is summarized in the following items.
 
 [Luigi Romano](https://www.uniparthenope.it/ugov/person/2017), Università di Napoli Pathenope
 
+[Stefano Zanero](https://zanero.faculty.polimi.it/), Politecnico di Milano
 
 ## Affiliated events
 
